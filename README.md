@@ -2,7 +2,7 @@
 
 > An end-to-end sales and outlet performance analysis of Blinkit — India's last-minute grocery delivery platform — built using **Excel (Pivot Tables + Dashboard)**.
 
-![Dashboard Preview](Blinkit_Analysis.png)
+![Dashboard Preview](Blinkit%20Analysis.png)
 
 ---
 
