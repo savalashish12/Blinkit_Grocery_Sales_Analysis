@@ -1,6 +1,6 @@
 # 🛒 Blinkit Grocery Data Analysis
 
-> An end-to-end sales and outlet performance analysis of Blinkit — India's last-minute grocery delivery platform — built using **Excel (Pivot Tables + Dashboard)**.
+> An end-to-end sales and outlet performance analysis of Blinkit - India's last-minute grocery delivery platform - built using **Excel (Pivot Tables + Dashboard)**.
 
 ![Dashboard Preview](Blinkit%20Analysis.png)
 
@@ -57,11 +57,11 @@ The final deliverable is an **interactive Excel dashboard** with slicers for dyn
 - **Low Fat** items contribute **$425.4K (35%)**
 
 ### Top Selling Item Types
-1. Fruits and Vegetables — $178.12K
-2. Snack Foods — $175.43K
-3. Household — $135.98K
-4. Frozen Foods — $118.56K
-5. Dairy — $101.28K
+1. Fruits and Vegetables - $178.12K
+2. Snack Foods - $175.43K
+3. Household - $135.98K
+4. Frozen Foods - $118.56K
+5. Dairy - $101.28K
 
 ### Outlet Location Performance
 | Location | Sales |
@@ -90,8 +90,8 @@ Sales peaked in **2018 at $204.5K**, with a notable dip in 2020 (likely pandemic
 
 ## 🛠️ Tools Used
 
-- **Microsoft Excel** — Pivot Tables, Charts, Slicers, Dashboard Design
-- **Data Cleaning** — Handled within Excel (fat content normalization, nulls)
+- **Microsoft Excel** - Pivot Tables, Charts, Slicers, Dashboard Design
+- **Data Cleaning** - Handled within Excel (fat content normalization, nulls)
 
 ---
 
@@ -121,8 +121,7 @@ Blinkit-Grocery-Analysis/
 ## 👤 Author
 
 **Ashish Saval**  
-MCA Student | Data Analytics Enthusiast  
-📍 Pune, India
+MCA Student | Data Analyst
 
 ---
 
